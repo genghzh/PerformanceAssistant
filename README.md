@@ -17,4 +17,6 @@ PerformanceAssistant （PA）是一款性能助手，提供 Linux 系统下的�
 - JVM性能调优
 
 # 目前支持的操作系统有哪些？
-目前仅支持 CentOS 操作系统。
+
+- CentOS 
+- Ubuntu
