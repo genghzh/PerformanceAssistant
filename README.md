@@ -27,7 +27,7 @@ PerformanceAssistant （PA）是一款性能助手，提供 Linux 系统下的�
 - 网络流量
 - JVM性能指标
 
-## 性能调优功能列表
+## 性能调优
 
 - Linux内核调优
 - JVM性能调优
